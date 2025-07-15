@@ -4,6 +4,7 @@ namespace: intranet-front
 groups:
   - name: intranet-devs
     role: edit
+    #hello
 
 resourceQuotas:
   pods: 8
